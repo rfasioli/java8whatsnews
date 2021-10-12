@@ -1,0 +1,26 @@
+br/com/rfasioli/java8whatsnews/OptionalDemo.java
+ br.com.rfasioli.java8whatsnews.OptionalDemo
+br/com/rfasioli/java8whatsnews/Base64Demo.java
+ br.com.rfasioli.java8whatsnews.Base64Demo
+br/com/rfasioli/java8whatsnews/NashornJSDemo.java
+ br.com.rfasioli.java8whatsnews.NashornJSDemo
+br/com/rfasioli/java8whatsnews/DefaultMethodsDemo.java
+ br.com.rfasioli.java8whatsnews.DefaultMethodsDemo
+ br.com.rfasioli.java8whatsnews.DefaultMethodsDemo$1
+ br.com.rfasioli.java8whatsnews.DefaultMethodsDemo$Car
+ br.com.rfasioli.java8whatsnews.DefaultMethodsDemo$FourWheeler
+ br.com.rfasioli.java8whatsnews.DefaultMethodsDemo$Vehicle
+br/com/rfasioli/java8whatsnews/LambdaDemo.java
+ br.com.rfasioli.java8whatsnews.LambdaDemo
+ br.com.rfasioli.java8whatsnews.LambdaDemo$GreetingService
+ br.com.rfasioli.java8whatsnews.LambdaDemo$MathOperation
+br/com/rfasioli/java8whatsnews/MethodReferenceDemo.java
+ br.com.rfasioli.java8whatsnews.MethodReferenceDemo
+br/com/rfasioli/java8whatsnews/domain/Person.java
+ br.com.rfasioli.java8whatsnews.domain.Person
+br/com/rfasioli/java8whatsnews/FunctionalInterfacesDemo.java
+ br.com.rfasioli.java8whatsnews.FunctionalInterfacesDemo
+br/com/rfasioli/java8whatsnews/DateTimeDemo.java
+ br.com.rfasioli.java8whatsnews.DateTimeDemo
+br/com/rfasioli/java8whatsnews/StreamsDemo.java
+ br.com.rfasioli.java8whatsnews.StreamsDemo
